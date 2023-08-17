@@ -1,2 +1,2 @@
 # Git_project-1
-First Git project
+This is a project for my class course and This is my first time using Git.
